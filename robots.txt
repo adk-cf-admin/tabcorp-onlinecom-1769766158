@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://tabcorp-online.com/
+Sitemap: https://tabcorp-online.com/sitemap.xml

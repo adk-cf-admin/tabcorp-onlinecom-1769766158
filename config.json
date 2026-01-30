@@ -1,0 +1,216 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#0D3033",
+            "lang-select-color": "#222829",
+            "bg-light": "#0D3033",
+            "welcome-bonus-bg": "#dadada",
+            "top-games-hover-fg": "#fefefe",
+            "main-bg": "#f3f4f1",
+            "text": "#222829",
+            "text-black": "#ffffff",
+            "table-head": "#008585",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#fb333d",
+            "yellow": "#26E36B",
+            "yellow-button": "#008585",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#2eafba",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "providers-back": "#2eafba",
+            "faq-label": "#185b61",
+            "bg-footer": "#0D3033",
+            "copyright": "#e7e7d5",
+            "starColor": "#26E36B",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2347"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2348",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Tabcorp Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2349",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Tabcorp"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-au-en-AU",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "AU",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Tabcorp",
+                    "title": "Tabcorp — Racing & Sports Betting Australia | TAB",
+                    "description": "Bet with Tabcorp, Australia's leading racing and sports platform. Enjoy horse racing, AFL, NRL betting with fast payouts. Join TAB now!\n",
+                    "canonical": "tabcorp-online.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2350",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "tabcorp-online.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2351"
+                },
+                "hero": {
+                    "title": "Experience Australia's Premier Racing & Sports Betting",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2352",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -5,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2353",
+                    "mobileImageSizeModifier": -3,
+                    "mobileImageYModifier": 2,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "Looking for trusted wagering in Australia? We offer licensed betting on racing and sports with cutting-edge technology, multilingual support, and fast withdrawals. Here's what makes us different:\n",
+                    "items": [
+                        "Licensed operator listed on ASX since 1994 with full Australian compliance",
+                        "4,400+ venues across Australia with seamless digital and retail integration",
+                        "Multilingual platform supporting English, Chinese, and Vietnamese languages",
+                        "Live racing broadcasts via Sky Racing with expert analysis and real-time odds",
+                        "Comprehensive betting on horse racing, AFL, NRL, cricket, tennis, and international sports",
+                        "Fast payouts with secure payment processing and 24\/7 customer support"
+                    ],
+                    "advantagesAfterText": "Join thousands of Australians enjoying premium wagering experiences every day. Our team is committed to responsible gaming and customer satisfaction across all channels.\n",
+                    "knowMore": "Know more",
+                    "appTitle": "Tabcorp App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2354",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Tabcorp App",
+                    "mobileGooglePlayImageTitle": "Tabcorp App",
+                    "mobileIosImageTitle": "Tabcorp App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About Tabcorp",
+                        "description1": "We are Australia's largest gambling entertainment company with roots dating back over six decades. Our journey began with the Victorian TAB establishment, and we've grown into a publicly listed leader employing over 5,000 passionate professionals.\n",
+                        "items": [
+                            "Established Victorian TAB operations legalising off-course betting",
+                            "Listed on Australian Securities Exchange marking privatisation milestone",
+                            "Expanded TAB brand across Victoria, NSW, Queensland, and other states",
+                            "Launched multilingual betting platform as Australian industry first"
+                        ],
+                        "description2": "We operate under strict Australian gaming regulations with full licensing compliance. Our platform utilises advanced encryption technology to protect customer data and transactions. All betting operations are regularly audited by independent authorities.\nWe continue investing in digital transformation and national tote systems. Our commitment to responsible gambling and community contributions remains central to our operations. Discover why we're Australia's most trusted wagering brand today.\n",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2355",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": ""
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Your Complete Guide to Betting with Tabcorp",
+                        "description": "<h2>Racing and Sports Betting Excellence<\/h2>\n\n<p>We proudly offer Australia's most comprehensive wagering platform, combining decades of racing heritage with cutting-edge sports betting technology. Our TAB brand has become synonymous with quality entertainment, serving millions of customers through our extensive network of digital channels and retail venues across the continent. Whether you're passionate about thoroughbred racing, greyhounds, harness racing, or major sporting codes like AFL and NRL, we deliver premium betting experiences backed by reliable service and competitive odds.<\/p>\n\n<p>Our platform provides seamless access to thousands of racing events annually, from iconic Melbourne Cup carnivals to daily metropolitan and provincial meetings across every Australian state and territory. We broadcast live racing coverage through Sky Racing channels, featuring expert commentary, form analysis, and real-time odds updates that help you make informed betting decisions. Our commitment to innovation means you'll always enjoy the latest features, including cash-out options, multi-bet builders, and exclusive promotions designed specifically for Australian punters.<\/p>\n\n<h3>Comprehensive Racing Markets<\/h3>\n\n<p>We specialise in thoroughbred, harness, and greyhound racing betting with unmatched depth and variety. Our racing product covers every major carnival, including the Spring Racing Carnival, Sydney Autumn Carnival, Brisbane Winter Carnival, and countless metropolitan fixtures throughout the year. You'll find competitive odds on win, place, each-way, quinella, exacta, trifecta, and first four bets, plus exotic options like quadrellas and mystery bets for those seeking bigger payouts.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Thoroughbred racing:<\/strong> Daily coverage of Melbourne, Sydney, Brisbane, Adelaide, Perth, and regional tracks with Group 1 features and prestigious cup races throughout the racing calendar.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Harness racing:<\/strong> Comprehensive markets on pacing and trotting events from all major tracks, including Menangle, Albion Park, and Melton with Saturday night racing highlights.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Greyhound racing:<\/strong> Fast-paced action from premier venues like Wentworth Park, Sandown Park, and Albion Park with frequent race meetings and jackpot opportunities.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>International racing:<\/strong> Access to major overseas meetings from Hong Kong, United Kingdom, Ireland, France, Dubai, and United States, including Royal Ascot and Breeders' Cup events.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Form guides and statistics:<\/strong> Detailed information including jockey and trainer records, track conditions, barrier statistics, and historical performance data to support your selections.\n  <\/li>\n<\/ul>\n\n<p>Our racing product integrates seamlessly with Sky Racing broadcasts, allowing you to watch races live while managing your bets through our mobile app or website. We provide real-time dividend updates, field changes, scratchings alerts, and race replays so you never miss critical information. Our fixed-odds and tote betting options give you flexibility to choose your preferred betting style, whether you prefer guaranteed returns or pooled dividends with potentially larger payouts on outsiders.<\/p>\n\n<h3>Sports Betting Across All Major Codes<\/h3>\n\n<p>We deliver extensive sports betting markets covering Australian and international competitions throughout the year. Our sportsbook features AFL, NRL, cricket, tennis, basketball, soccer, rugby union, golf, motorsports, and numerous other sporting disciplines. You'll find competitive odds on match results, head-to-head betting, line markets, total points, player props, and specialty bets that add excitement to every game and tournament you follow.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>AFL betting:<\/strong> Complete markets for every Premiership round, finals series, Brownlow Medal, and season specials with same-game multis and player performance options.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>NRL markets:<\/strong> Comprehensive coverage of every regular season match, State of Origin series, finals, and Grand Final with margin betting and try scorer markets.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Cricket betting:<\/strong> Test matches, ODI series, T20 internationals, Big Bash League, and overseas competitions with ball-by-ball betting and player performance specials.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Tennis tournaments:<\/strong> Australian Open, Wimbledon, French Open, US Open, and ATP\/WTA tour events with set betting, games handicaps, and tournament winner markets.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>International soccer:<\/strong> English Premier League, UEFA Champions League, World Cup qualifiers, A-League, and European domestic leagues with goalscorer and correct score options.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Basketball betting:<\/strong> NBA, NBL, WNBA, and international competitions with point spreads, totals, quarter betting, and player proposition bets for enhanced engagement.\n  <\/li>\n<\/ul>\n\n<p>Our sports betting platform features live in-play betting on thousands of events annually, allowing you to place bets as the action unfolds. We update odds in real-time based on game developments, giving you opportunities to capitalise on momentum shifts, tactical changes, and live performance trends. Our same-game multi functionality lets you combine multiple bets from a single match into one wager for potentially higher returns with added excitement and entertainment value.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px; font-family: sans-serif; color: #ffffff;\">\n  <thead>\n    <tr style=\"background-color: #00cf8a;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Sport<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Min Bet<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Max Bet<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #002b26;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Racing<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$50,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1a1a1a;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>AFL<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$25,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #002b26;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>NRL<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$25,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1a1a1a;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Cricket<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$20,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #002b26;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Tennis<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$15,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1a1a1a;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Soccer<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$10,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #002b26;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Basketball<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$10,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1a1a1a;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Golf<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$5,000<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>Digital and Retail Convenience<\/h3>\n\n<p>We provide unmatched convenience through our integrated multichannel approach, combining digital innovation with our extensive retail footprint across Australia. Our TAB app delivers full betting functionality on iOS and Android devices, featuring intuitive navigation, biometric login, quick bet placement, and instant notifications for results and promotions. You can seamlessly transition between mobile, desktop, and retail channels while maintaining your account balance, betting history, and preferences across all platforms for ultimate flexibility.<\/p>\n\n<p>Our retail network spans over 4,400 venues including dedicated TAB outlets, pubs, clubs, and entertainment venues throughout metropolitan and regional Australia. Every venue features modern betting terminals, large-screen race and sports coverage, comfortable viewing areas, and knowledgeable staff ready to assist with bet placement and account queries. We continuously upgrade our retail technology to ensure consistent service quality whether you're betting in Melbourne's CBD, suburban Brisbane, regional NSW, or remote Queensland communities.<\/p>\n\n<h3>Multilingual Platform Innovation<\/h3>\n\n<p>We proudly launched Australia's first multilingual wagering platform, breaking down language barriers for our diverse customer base. Our TAB app now supports Traditional Chinese, Simplified Chinese, and Vietnamese alongside English, allowing thousands of customers to access full betting functionality in their preferred language. This industry-leading innovation demonstrates our commitment to inclusivity and customer-centric service delivery across Australia's multicultural communities.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Language switching:<\/strong> Instantly change between English, Traditional Chinese, Simplified Chinese, and Vietnamese within the app settings without logging out or losing your betting slip.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Localised content:<\/strong> Form guides, race information, sports news, and betting terms translated accurately to ensure complete understanding regardless of your native language.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Multilingual support:<\/strong> Customer service representatives fluent in multiple languages available via phone, email, and live chat to assist with account queries and technical issues.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Future expansion:<\/strong> Ongoing development to add more language options based on customer demand, ensuring we serve Australia's diverse population effectively and respectfully.\n  <\/li>\n<\/ul>\n\n<h3>Responsible Gaming Commitment<\/h3>\n\n<p>We prioritise responsible gambling through comprehensive tools, education, and support services embedded throughout our platform. Our commitment to customer wellbeing includes mandatory deposit limits, self-exclusion options, reality checks, time-out periods, and activity statements that promote informed decision-making. We partner with leading responsible gambling organisations to provide counselling services, support resources, and educational materials for customers and their families who may need assistance managing their betting behaviour.<\/p>\n\n<p>Our staff receive regular training in responsible service of gambling practices, enabling them to identify and assist customers who may be experiencing difficulties. We maintain strict age verification procedures, implement advertising standards that prioritise harm minimisation, and contribute significantly to problem gambling research and community support programs across Australia. Our sustainable approach to entertainment ensures we can continue serving customers responsibly for generations to come.<\/p>\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Banking, Security, and Customer Support",
+                        "description": "<h2>Safe and Secure Wagering Platform<\/h2>\n\n<p>We maintain the highest security standards to protect your personal information, financial transactions, and betting activity across all channels. Our platform employs bank-grade SSL encryption technology, secure payment gateways, and multi-factor authentication options to safeguard your account from unauthorised access. As a publicly listed company on the Australian Securities Exchange, we operate under rigorous corporate governance frameworks and comply with all Australian financial services regulations, gaming laws, and consumer protection requirements that ensure transparent and fair operations.<\/p>\n\n<p>Our security infrastructure undergoes regular independent audits and penetration testing to identify and address potential vulnerabilities before they can impact customers. We implement advanced fraud detection systems that monitor transactions for suspicious activity while maintaining your privacy and data confidentiality. Our commitment to cybersecurity excellence means you can bet with complete confidence knowing your funds and information are protected by enterprise-level security measures comparable to major Australian financial institutions.<\/p>\n\n<h3>Convenient Banking Options<\/h3>\n\n<p>We offer comprehensive deposit and withdrawal methods designed for Australian customers, ensuring fast, secure, and hassle-free transactions. Our banking options include major credit and debit cards, bank transfers, BPAY, PayPal, and other popular payment solutions that integrate seamlessly with Australian financial systems. You can fund your account instantly using most methods, allowing you to start betting immediately without delays or complicated verification procedures that slow down your entertainment experience.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Credit and debit cards:<\/strong> Instant deposits using Visa and Mastercard with secure tokenisation technology that protects your card details from exposure or theft.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Bank transfers:<\/strong> Direct deposits from your Australian bank account with secure processing and confirmation notifications sent to your registered email and mobile number.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>BPAY payments:<\/strong> Traditional BPAY deposits for customers who prefer established Australian payment methods with familiar banking interfaces and transaction records.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Digital wallets:<\/strong> PayPal and other e-wallet options providing additional security layers and convenient payment management through trusted third-party platforms.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Fast withdrawals:<\/strong> Quick processing of winnings back to your nominated bank account or payment method with transparent timeframes and no hidden fees.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Transaction history:<\/strong> Complete records of all deposits, withdrawals, bets, and winnings accessible through your account dashboard for budgeting and tax purposes.\n  <\/li>\n<\/ul>\n\n<p>We process withdrawal requests efficiently with most payments completed within one to three business days depending on your chosen method and bank processing times. Our finance team manually reviews large withdrawals to ensure security compliance and fraud prevention while maintaining prompt service for legitimate transactions. You'll receive email and SMS notifications at every stage of the withdrawal process, keeping you informed from request submission through final payment confirmation in your bank account.<\/p>\n\n<h3>Customer Support Excellence<\/h3>\n\n<p>We provide comprehensive customer support through multiple channels, ensuring you can always reach our experienced team when you need assistance. Our support services operate around the clock with live chat, email, and telephone options staffed by knowledgeable representatives trained in all aspects of racing, sports betting, account management, and technical troubleshooting. Whether you need help placing a bet, understanding odds formats, resolving a payment query, or navigating our app features, we're here to provide prompt and professional assistance.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Live chat support:<\/strong> Instant messaging with support agents directly through our website and mobile app for quick answers to urgent questions and real-time problem resolution.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Telephone assistance:<\/strong> Dedicated Australian phone numbers connecting you to local support teams who understand regional racing, sports, and customer service expectations.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Email support:<\/strong> Detailed responses to complex queries sent to your registered email address with reference numbers for tracking and follow-up communications.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Multilingual service:<\/strong> Support available in English, Chinese, and Vietnamese matching our platform languages to ensure clear communication regardless of your background.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Help centre:<\/strong> Comprehensive FAQ database, tutorial videos, and step-by-step guides covering common topics and procedures accessible without contacting support.\n  <\/li>\n<\/ul>\n\n<p>Our retail venues provide face-to-face support from trained staff who can assist with account setup, bet placement, results checking, and general wagering advice. We value customer feedback and continuously improve our services based on suggestions, complaints, and compliments received through formal channels and social media interactions. Our commitment to service excellence has earned us recognition as Australia's most trusted wagering brand with millions of satisfied customers nationwide.<\/p>\n\n<h3>Licensing and Regulatory Compliance<\/h3>\n\n<p>We operate under comprehensive Australian gambling licenses issued by state and territory regulators, ensuring full compliance with the highest industry standards. Our wagering operations are licensed in Victoria, New South Wales, Queensland, South Australia, Tasmania, Northern Territory, and Australian Capital Territory, covering the vast majority of Australia's population. These licenses require strict adherence to responsible gambling codes, financial probity standards, technical gaming requirements, and consumer protection regulations that safeguard customer interests at all times.<\/p>\n\n<p>Our regulatory compliance extends beyond minimum requirements through voluntary partnerships with industry bodies, research institutions, and community organisations focused on harm minimisation. We participate in national gambling policy discussions, contribute to best practice development, and implement emerging technologies that promote safer gambling behaviours. Our proactive approach to regulation demonstrates our commitment to sustainable operations that balance entertainment provision with social responsibility and community wellbeing across Australia.<\/p>\n\n<h3>Corporate Social Responsibility<\/h3>\n\n<p>We actively contribute to Australian communities through strategic partnerships, sponsorships, and charitable initiatives that create positive social impact. Our community investment program supports racing and sporting clubs, regional development projects, youth programs, and organisations addressing problem gambling and related harms. We employ over 5,000 Australians across metropolitan and regional locations, providing stable careers, training opportunities, and workplace benefits that support families and local economies.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Racing industry support:<\/strong> Significant returns to thoroughbred, harness, and greyhound racing codes funding prize money, breeding programs, infrastructure, and employment opportunities.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Sports partnerships:<\/strong> Official partnerships with AFL, NRL, cricket organisations, and other sporting bodies contributing to grassroots development and elite competition funding.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Responsible gambling programs:<\/strong> Financial support for counselling services, research initiatives, education campaigns, and treatment programs helping affected individuals and families.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Diversity and inclusion:<\/strong> Recognised as Employer of Choice for Gender Equality by the Federal Government's Workplace Gender Equality Agency promoting inclusive workplaces.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Environmental sustainability:<\/strong> Commitment to reducing carbon emissions, implementing energy-efficient technologies, and supporting environmental initiatives across our operations.\n  <\/li>\n<\/ul>\n\n<h3>Technology and Innovation Leadership<\/h3>\n\n<p>We invest heavily in digital transformation and technological innovation to deliver cutting-edge betting experiences that meet evolving customer expectations. Our development teams continuously enhance our mobile apps, website functionality, retail systems, and backend infrastructure using agile methodologies and customer feedback loops. Recent innovations include our multilingual platform launch, same-game multi functionality, enhanced live streaming capabilities, and improved user interfaces that simplify navigation and bet placement.<\/p>\n\n<p>Our technology roadmap includes national tote system development, artificial intelligence integration for personalised recommendations, expanded payment options, and augmented reality features that will revolutionise how Australians engage with racing and sports entertainment. We collaborate with leading technology providers, startups, and research institutions to identify emerging trends and implement solutions that maintain our position as Australia's most innovative wagering operator serving millions of customers daily.<\/p>\n\n<h3>Join Australia's Leading Wagering Platform<\/h3>\n\n<p>We invite you to experience the difference that decades of expertise, comprehensive licensing, technological excellence, and customer-focused service deliver. Whether you're a seasoned punter or new to wagering, our platform provides everything you need for entertaining and responsible betting on racing and sports. Create your account today through our website or mobile app, make your first deposit using your preferred payment method, and discover why millions of Australians choose us as their trusted wagering partner.<\/p>\n\n<p>Our welcome offers, ongoing promotions, and loyalty rewards provide added value for regular customers who appreciate quality entertainment and competitive odds. We look forward to serving you with the professionalism, integrity, and excellence that have defined our brand for over thirty years. Join us now and become part of Australia's premier racing and sports betting community backed by the security and reliability of a publicly listed ASX company.<\/p>\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "How do I create a Tabcorp betting account?",
+                            "answer": "Creating your account takes just minutes. Visit our website or download the TAB app, click \"Join Now,\" and complete the registration form with your details. Provide identification for verification as required by Australian law. Once verified, make your first deposit using credit card, bank transfer, or PayPal to start betting immediately.\n"
+                        },
+                        {
+                            "title": "What racing and sports can I bet on with TAB?",
+                            "answer": "We offer comprehensive betting on Australian thoroughbred, harness, and greyhound racing from all major tracks nationwide. Our sports coverage includes AFL, NRL, cricket, tennis, basketball, soccer, rugby union, golf, and motorsports. You can bet on local competitions like Big Bash League and A-League, plus international events including Premier League, NBA, and Grand Slam tennis tournaments.\n"
+                        },
+                        {
+                            "title": "How quickly are withdrawals processed?",
+                            "answer": "Most withdrawals process within one to three business days depending on your payment method and bank. Withdrawals to Australian bank accounts typically arrive within two business days. Larger amounts may require additional verification for security. You'll receive email and SMS notifications throughout the process until funds reach your account.\n"
+                        },
+                        {
+                            "title": "Is my personal and financial information secure?",
+                            "answer": "Absolutely. We employ bank-grade SSL encryption and secure payment gateways to protect your data. As an ASX-listed company, we operate under strict regulatory oversight. Our systems undergo regular independent security audits. We implement fraud detection systems and multi-factor authentication to ensure your account remains secure at all times.\n"
+                        },
+                        {
+                            "title": "What languages does the TAB platform support?",
+                            "answer": "We offer Australia's first multilingual wagering platform. Our TAB app supports English, Traditional Chinese, Simplified Chinese, and Vietnamese. Switch languages instantly within app settings without losing your betting slip. Form guides, race information, and customer support are available in these languages ensuring complete understanding.\n"
+                        },
+                        {
+                            "title": "How can I contact customer support if I need help?",
+                            "answer": "Our support team is available through multiple channels. Use live chat through our website or app for instant responses. Call our Australian phone lines to speak with experienced representatives. Send queries via email for detailed responses. Visit any of our 4,400+ retail venues for face-to-face assistance from trained staff.\n"
+                        },
+                        {
+                            "title": "What responsible gambling tools are available?",
+                            "answer": "We provide comprehensive tools including deposit limits, self-exclusion options, reality checks, time-out periods, and activity statements. Set daily, weekly, or monthly spending limits through your account settings. Our platform includes links to counselling services and support resources. Staff are trained to assist customers experiencing difficulties with gambling.\n"
+                        },
+                        {
+                            "title": "Can I bet through both mobile app and retail venues?",
+                            "answer": "Yes, we offer seamless multichannel betting across digital and retail platforms. Your account works identically on our iOS\/Android app, desktop website, or at 4,400+ venues. Your balance, history, and preferences synchronise automatically across all channels, allowing you to switch between mobile and retail venues for ultimate convenience.\n"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

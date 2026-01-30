@@ -1,0 +1,19 @@
+{
+  "name": "Tabcorp",
+  "short_name": "Tabcorp",
+  "theme_color": "",
+  "background_color": "#0D3033",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1769765507-favicon.ico",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
